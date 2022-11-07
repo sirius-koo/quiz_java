@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Chapter02_4Test {
     public static void main(String[] args) {
-        // 02_4 3번 문제 구현하기
+        // 02_4 3번 문제 구현
         Scanner scanner = new Scanner((System.in));
 
         System.out.println("[필수 정보 입력]");
